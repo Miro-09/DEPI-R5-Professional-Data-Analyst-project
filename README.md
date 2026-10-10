@@ -24,16 +24,16 @@
 > 
 > **📦 Project Scope :**
 >
-* ***Relational Data Modeling:*** Structuring normalized tables and star-schema dimensional relationships across transactions, catalog items, and fulfillment logistics
-* ***Data Preprocessing \& Validation:*** Conducting duplicate audits, masking non-delivered timestamps to handle hidden nulls, rectifying status inconsistencies (orders marked delivered without being shipped), and detecting chronological outliers (`DeliveryDate < OrderDate`).
-* *Core KPI Engineering:* Formulating executive business metrics, including Customer Lifetime Value (CLTV), Fulfillment Lead Time, Performance Rating, and Delivery Deviation.
-* ***Four Independent Analytical Implementations:***
-
-  1. **Python:** Data manipulation and cleansing with Pandas/NumPy, exploratory statistical analysis, and interactive dashboard development via Streamlit/Plotly.
-  2. **SQL:** Relational schema creation, analytical querying using CTEs, window functions, and business reporting summary views.
-  3. **Tableau:** Visual modeling, calculated fields, dynamic parameters, level-of-detail (LOD) expressions, and geographic fulfillment maps.
-  4. **Power BI:** Star schema modeling, DAX measure creation, interactive cross-filtering, and executive visual reporting.
-  5. **Actionable Business Recommendations:** Translating metrics into operational improvements for courier allocation, inventory stocking, and high-tier customer retention.
+> * ***Relational Data Modeling:*** Structuring normalized tables and star-schema dimensional relationships across transactions, catalog items, and fulfillment logistics
+> * ***Data Preprocessing & Validation:*** Conducting duplicate audits, masking non-delivered timestamps to handle hidden nulls, rectifying status inconsistencies (orders marked delivered without being shipped), and detecting chronological outliers (`DeliveryDate < OrderDate`).
+> * ***Core KPI Engineering:* Formulating executive business metrics, including Customer Lifetime Value (CLTV), Fulfillment Lead Time, Performance Rating, and Delivery Deviation.
+> * ***Four Independent Analytical Implementations:***
+> 
+> 1. **Python:** Data manipulation and cleansing with Pandas/NumPy, exploratory statistical analysis, and interactive dashboard development via Streamlit/Plotly.
+> 2. **SQL:** Relational schema creation, analytical querying using CTEs, window functions, and business reporting summary views.
+> 3. **Tableau:** Visual modeling, calculated fields, dynamic parameters, level-of-detail (LOD) expressions, and geographic fulfillment maps.
+> 4. **Power BI:** Star schema modeling, DAX measure creation, interactive cross-filtering, and executive visual reporting.
+> 5. **Actionable Business Recommendations:** Translating metrics into operational improvements for courier allocation, inventory stocking, and high-tier customer retention.
 > 
 > **📅 Project Plan (5 Weeks):**
 > ##### Week 1 — Data Preprocessing, Relational Schema \& Python Analytics Pipeline
