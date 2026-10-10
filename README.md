@@ -36,4 +36,11 @@
   5. **Actionable Business Recommendations:** Translating metrics into operational improvements for courier allocation, inventory stocking, and high-tier customer retention.
 > 
 > **📅 Project Plan (5 Weeks):**
+> ##### Week 1 — Data Preprocessing, Relational Schema \& Python Analytics Pipeline
 > 
+> ##### Week 2 — Relational Database Architecture \& Advanced SQL Query Repository
+>
+> ##### Week 3 — Tableau Business Intelligence \& Geospatial Fulfillment Dashboard
+> ##### Week 4 — Power BI Modeling, DAX Architecture \& Executive Reporting
+>
+> ##### Week 5 — Multi-Tool Metric Auditing, Strategic Insights \& Final Handover
