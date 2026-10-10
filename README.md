@@ -16,9 +16,9 @@
 > Amal Mahmoud
 > 
 > **🎯 Project Objectives:**
-> - Establish a Unified Relational Schema: Architect and validate a relational model connecting Orders, Products, and
+>* Establish a Unified Relational Schema: Architect and validate a relational model connecting Orders, Products, and
 >   Deliveries with strict primary and foreign key integrity.
-> - Cleanse \& Audit Data Anomalies: Screen records for duplicate transactions, resolve logical missing values (such as >delivery timestamps on unfulfilled orders), and isolate delivery timeline outliers.
+>* Cleanse \& Audit Data Anomalies: Screen records for duplicate transactions, resolve logical missing values (such as >delivery timestamps on unfulfilled orders), and isolate delivery timeline outliers.
 >* Measure Operational \& Fulfillment KPIs: Compute critical operational benchmarks, including order confirmation rates, on->time delivery percentages, carrier-specific delivery deviation days, and payment channel distribution.
 >* Develop 4 Standalone BI Implementations: Create five core analytical views (Sales, Orders, Products, Delivery \& >Logistics, and Customer Segmentation) separately in Python, SQL, Tableau, and Power BI to derive strategic business >recommendations
 > 
