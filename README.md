@@ -7,10 +7,10 @@
 > 
 > **👥 Team Members:**
 > 
-> Maiar Mahmoud Sayed Mostafa
-> Habiba Ehab Mohamed Abd ElHakeem
-> Mostafa Fouad
-> Ahmed AbdElnaser
+> * Maiar Mahmoud Sayed Mostafa
+> * Habiba Ehab Mohamed Abd ElHakeem
+> * Mostafa Fouad
+> * Ahmed AbdElnaser
 > 
 > **🎓 Instructor:**
 > Amal Mahmoud
