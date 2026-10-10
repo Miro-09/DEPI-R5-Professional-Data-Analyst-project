@@ -9,8 +9,9 @@
 > 
 > * Maiar Mahmoud Sayed Mostafa
 > * Habiba Ehab Mohamed Abd ElHakeem
-> * Mostafa Fouad
-> * Ahmed AbdElnaser
+> * Mostafa Fouad Mostafa Kamal Mohamed
+> * Ahmed Abdelnasser Ibrahim Abdelmajeed
+> * Mohamed Waheed Ahmed
 > 
 > **🎓 Instructor:**
 > Amal Mahmoud
