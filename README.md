@@ -26,7 +26,7 @@
 >
 > * ***Relational Data Modeling:*** Structuring normalized tables and star-schema dimensional relationships across transactions, catalog items, and fulfillment logistics
 > * ***Data Preprocessing & Validation:*** Conducting duplicate audits, masking non-delivered timestamps to handle hidden nulls, rectifying status inconsistencies (orders marked delivered without being shipped), and detecting chronological outliers (`DeliveryDate < OrderDate`).
-> * ***Core KPI Engineering:* Formulating executive business metrics, including Customer Lifetime Value (CLTV), Fulfillment Lead Time, Performance Rating, and Delivery Deviation.
+> * ***Core KPI Engineering:*** Formulating executive business metrics, including Customer Lifetime Value (CLTV), Fulfillment Lead Time, Performance Rating, and Delivery Deviation.
 > * ***Four Independent Analytical Implementations:***
 > 
 > 1. **Python:** Data manipulation and cleansing with Pandas/NumPy, exploratory statistical analysis, and interactive dashboard development via Streamlit/Plotly.
